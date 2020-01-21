@@ -1,2 +1,2 @@
-this app seeks to provide a rental system for a shop
+this app was developed in vb script a rental online management system 
 `
